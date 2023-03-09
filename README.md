@@ -4,3 +4,5 @@ This code will capture the packets from the seismometer using the SeedLink serve
 Ro
 Acest cod va captura pachetele de la seismometru cu ajutorul Aserverului SeedLink si va aplica un filtru HighPass pe forma de unda care va fi afisata in Fereastra PLot  Codul contine si o alerta sonora la depasirea unui anumit prag al amplitudinii setat in cod la 6000. Python 3.8.10 sau mai mare. Instalati librariile necesare inaintea utilizarii.
 [Fig. 1](https://i.ibb.co/98NTG84/Screenshot-from-2023-03-09-17-44-58.png)
+<img src="https://i.ibb.co/98NTG84/Screenshot-from-2023-03-09-17-44-58.png" alt="PLot Image"/>
+
